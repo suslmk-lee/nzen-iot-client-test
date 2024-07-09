@@ -20,7 +20,7 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      app: nnzen-iot-client-test
+      app: nzen-iot-client-test
   template:
     metadata:
       labels:
